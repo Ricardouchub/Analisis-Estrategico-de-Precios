@@ -27,7 +27,7 @@ El análisis se centra en responder preguntas críticas de negocio en tres área
 * ¿Qué productos sufren las mayores alzas de precio?
 
 ####  Optimización de la Cadena de Suministro
-* ¿Hay días o quincenas con precios consistentemente más bajos?
+* ¿Hay días de la semana con precios consistentemente más bajos?
 * ¿En qué mercados es más barato comprar productos clave?
 
 ---
