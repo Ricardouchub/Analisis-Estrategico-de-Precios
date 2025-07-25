@@ -2,7 +2,8 @@
 
 Este repositorio contiene un análisis de datos exploratorio para **FRESCORP S.A.**, una cadena de supermercados **ficticia** que busca lanzar una nueva línea de negocio de frutas y hortalizas. El objetivo del proyecto es utilizar datos públicos de precios mayoristas para desarrollar una estrategia de negocio inicial.
 
-[imagen]
+<img width="698" height="312" alt="image" src="https://github.com/user-attachments/assets/fc8291fc-8f2d-445f-a4db-a3947996f38e" />
+
 
 ---
 
@@ -10,9 +11,11 @@ Este repositorio contiene un análisis de datos exploratorio para **FRESCORP S.A
 
 ---
 
-## Objetivos y Preguntas Clave
+## Objetivos 
 
 El análisis se centra en responder preguntas críticas de negocio en tres áreas fundamentales:
+
+## Preguntas Clave
 
 ####  Cartera de Productos
 * ¿Qué productos tienen el menor costo de adquisición promedio?
