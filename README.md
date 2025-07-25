@@ -56,5 +56,4 @@ El análisis se centra en responder preguntas críticas de negocio en tres área
 
 ## Data set
 
-Kaggle 
-https://www.kaggle.com/datasets/ricardourdaneta/precio-mayorista-de-frutas-y-hortalizas-2025
+Disponible al público en [Kaggle](https://www.kaggle.com/datasets/ricardourdaneta/precio-mayorista-de-frutas-y-hortalizas-2025)
