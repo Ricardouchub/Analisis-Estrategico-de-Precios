@@ -9,6 +9,8 @@ Este repositorio contiene un análisis de datos exploratorio para **FRESCORP S.A
 
 **FRESCORP S.A.** es una cadena de supermercados con fuerte presencia en abarrotes y carnes, pero sin experiencia en el volátil mercado de productos frescos. Para lanzar su nueva sección **"FRESCORP Verde"**, la gerencia necesita un plan basado en datos para definir su cartera de productos inicial, establecer una estrategia de precios y optimizar su cadena de suministro, asegurando la rentabilidad y competitividad del proyecto.
 
+[Notebook](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios/blob/main/An%C3%A1lisis%20Estrat%C3%A9gico%20de%20Precios%20Mayoristas%20para%20el%20Sector%20Retail%20de%20Frutas%20y%20Hortalizas.ipynb)
+
 ---
 
 ## Objetivos 
@@ -54,6 +56,6 @@ El análisis se centra en responder preguntas críticas de negocio en tres área
 
 ---
 
-## Data set
+## Data base
 
 Disponible al público en [Kaggle](https://www.kaggle.com/datasets/ricardourdaneta/precio-mayorista-de-frutas-y-hortalizas-2025)
